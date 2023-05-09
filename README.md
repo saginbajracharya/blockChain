@@ -1,4 +1,4 @@
-# blockchain
+# blockchain DAPP Flutter + truffle + Ganache
 
 A new Flutter project.
 
